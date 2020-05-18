@@ -21,3 +21,4 @@ The system employs the use of:
     # store all records
     # Give passengers a chance to make a report on drivers' conduct at work
 
+# Import tsms.sql into phpmyadmin to access the database 
