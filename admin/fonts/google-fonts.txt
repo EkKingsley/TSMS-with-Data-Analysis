@@ -1,0 +1,238 @@
+
+
+    font-family: 'Maitree', serif;
+
+    font-family: 'Annie Use Your Telescope', cursive;
+
+    font-family: 'Mali', cursive;
+
+    font-family: 'Just Another Hand', cursive;
+
+    font-family: 'Shojumaru', cursive;
+
+    font-family: 'Yesteryear', cursive;
+
+    font-family: 'Aladin', cursive;
+
+    font-family: 'Kameron', serif;
+
+    font-family: 'Molengo', sans-serif;
+
+    font-family: 'Do Hyeon', sans-serif;
+
+    font-family: 'Coming Soon', cursive;
+
+    font-family: 'Alatsi', sans-serif;
+
+    font-family: 'Nanum Brush Script', cursive;
+
+    font-family: 'Caudex', serif;
+
+    font-family: 'Bentham', serif;
+
+    font-family: 'Judson', serif;
+
+    font-family: 'Amethysta', serif;
+
+    font-family: 'Kadwa', serif;
+
+    font-family: 'Bilbo', cursive;
+
+    font-family: 'Abhaya Libre', serif;
+
+
+
+    font-family: 'Baloo Chettan 2', cursive;
+
+    font-family: 'Baloo 2', cursive;
+
+    font-family: 'Baloo Da 2', cursive;
+
+    font-family: 'Baloo Thambi 2', cursive;
+
+    font-family: 'Baloo Bhai 2', cursive;
+
+    font-family: 'Crimson Text', serif;
+
+    font-family: 'Barlow', sans-serif;
+
+    font-family: 'Baloo Tamma 2', cursive;
+
+    font-family: 'Libre Baskerville', serif;
+
+    font-family: 'Baloo Paaji 2', cursive;
+
+    font-family: 'Amiri', serif;
+
+    font-family: 'Barlow Condensed', sans-serif;
+
+
+
+    font-family: 'Srisakdi', cursive;
+
+    font-family: 'Sirin Stencil', cursive;
+
+    font-family: 'Darker Grotesque', sans-serif;
+
+    font-family: 'Kotta One', serif;
+
+    font-family: 'Timmana', sans-serif;
+
+    font-family: 'Germania One', cursive;
+
+    font-family: 'Dokdo', cursive;
+
+    font-family: 'Antic Didone', serif;
+
+    font-family: 'Hepta Slab', serif;
+
+    font-family: 'Kumar One', cursive;
+
+    font-family: 'Baloo Thambi', cursive;
+
+    font-family: 'Creepster', cursive;
+
+    font-family: 'Wire One', sans-serif;
+
+    font-family: 'Farro', sans-serif;
+
+    font-family: 'Engagement', cursive;
+
+    font-family: 'Metamorphous', cursive;
+
+    font-family: 'Padauk', sans-serif;
+
+    font-family: 'Chathura', sans-serif;
+
+    font-family: 'Trochut', cursive;
+
+    font-family: 'Just Me Again Down Here', cursive;
+
+    font-family: 'Vibes', cursive;
+
+    font-family: 'IM Fell English SC', serif;
+
+    font-family: 'Port Lligat Slab', serif;
+
+    font-family: 'Farsan', cursive;
+
+    font-family: 'Blinker', sans-serif;
+
+    font-family: 'Coiny', cursive;
+
+    font-family: 'Gaegu', cursive;
+
+    font-family: 'Averia Libre', cursive;
+
+    font-family: 'Amarante', cursive;
+
+    font-family: 'Tulpen One', cursive;
+
+    font-family: 'Dekko', cursive;
+
+    font-family: 'Scope One', serif;
+
+    font-family: 'Grenze', serif;
+
+    font-family: 'Quintessential', cursive;
+
+    font-family: 'Donegal One', serif;
+
+    font-family: 'Elsie', cursive;
+
+    font-family: 'Montaga', serif;
+
+    font-family: 'Sumana', serif;
+
+    font-family: 'Sree Krushnadevaraya', serif;
+
+    font-family: 'Ramaraja', serif;
+
+    font-family: 'Bahianita', cursive;
+
+    font-family: 'Gayathri', sans-serif;
+
+    font-family: 'Flamenco', cursive;
+
+    font-family: 'Rum Raisin', sans-serif;
+
+    font-family: 'Simonetta', cursive;
+
+    font-family: 'Rosarivo', serif;
+
+    font-family: 'Milonga', cursive;
+
+    font-family: 'Englebert', sans-serif;
+
+    font-family: 'Kite One', sans-serif;
+
+    font-family: 'Fenix', serif;
+
+    font-family: 'Lovers Quarrel', cursive;
+
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+
+    font-family: 'Supermercado One', cursive;
+
+
+
+    font-family: 'Ravi Prakash', cursive;
+
+    font-family: 'Ruthie', cursive;
+
+    font-family: 'Bahiana', cursive;
+
+    font-family: 'Zhi Mang Xing', cursive;
+
+    font-family: 'IM Fell DW Pica SC', serif;
+
+    font-family: 'Nova Flat', cursive;
+
+    font-family: 'Stylish', sans-serif;
+
+    font-family: 'Charmonman', cursive;
+
+    font-family: 'Purple Purse', cursive;
+
+    font-family: 'Oldenburg', cursive;
+
+    font-family: 'Risque', cursive;
+
+    font-family: 'Original Surfer', cursive;
+
+    font-family: 'Devonshire', cursive;
+
+    font-family: 'MedievalSharp', cursive;
+
+    font-family: 'Lakki Reddy', cursive;
+
+    font-family: 'Iceberg', cursive;
+
+    font-family: 'Irish Grover', cursive;
+
+    font-family: 'Diplomata SC', cursive;
+
+    font-family: 'Sahitya', serif;
+
+    font-family: 'Lancelot', cursive;
+
+    font-family: 'Hi Melody', cursive;
+
+    font-family: 'Libre Barcode 128', cursive;
+
+    font-family: 'Felipa', cursive;
+
+    font-family: 'Sedgwick Ave Display', cursive;
+
+    font-family: 'Jacques Francois', serif;
+
+    font-family: 'Cute Font', cursive;
+
+    font-family: 'Poor Story', cursive;
+
+    font-family: 'Kavivanar', cursive;
+
+    font-family: 'Sevillana', cursive;
+
+    font-family: 'Tenali Ramakrishna', sans-serif;
+
